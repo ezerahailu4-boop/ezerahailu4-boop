@@ -24,8 +24,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git repo
+          cd repo
+
+          git checkout -B output
+
+          mkdir -p dist
+          cp -r ../dist/* ./dist/
+
+          git add dist
+          git commit -m "Generate snake animation" || echo "No changes"
+          git push origin output --force
