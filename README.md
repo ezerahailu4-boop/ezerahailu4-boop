@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hey there, I'm Ezera!
+# 👋 Hey there, I'm Ezera Hailu
 
 ### 🚀 Full Stack Developer | Building Modern Digital Experiences
 
@@ -61,24 +61,12 @@ Focused on performance, clean architecture, and great user experience.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l24356&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=l24356&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=l24356&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/l24356/l24356/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
