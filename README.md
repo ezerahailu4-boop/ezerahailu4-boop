@@ -121,10 +121,10 @@
 
 <History
 
-<a href="https://www.star-history.com/?repos=Panniantong%2FAgent-Reach&type=date&legend=top-left">
+<a href="https://github.com/ezerahailu4-boop">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Panniantong/Agent-Reach&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Panniantong/Agent-Reach&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Panniantong/Agent-Reach&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ezerahailu4-boop&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ezerahailu4-boop&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true" />
+   <img alt="ezerahailu4-boop GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ezerahailu4-boop&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true" />
  </picture>
 </a>
