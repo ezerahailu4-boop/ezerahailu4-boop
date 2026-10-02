@@ -118,7 +118,14 @@
 ## 🧠 Philosophy
 
 > “First, solve the problem. Then, write the code.”
->
+
+<a href="https://www.star-history.com/?repos=ezerahailu4-boop%2FYOUR-REPO&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ezerahailu4-boop/YOUR-REPO&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ezerahailu4-boop/YOUR-REPO&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ezerahailu4-boop/YOUR-REPO&type=date&legend=top-left" />
+ </picture>
+</a>
 > ## Star History
 
 <a href="https://www.star-history.com/?repos=Panniantong%2FAgent-Reach&type=date&legend=top-left">
